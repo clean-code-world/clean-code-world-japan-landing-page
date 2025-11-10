@@ -171,10 +171,11 @@ a {
   max-width: 100%;
   height: auto;
   position: absolute;
-  left: 164px;
-  top: 487px;
-  font-family: 'Orelega One', cursive;
+  left: 192px;
+  top: 477px;
+  font-family: 'Orelega One';
   font-size: 96px;
+  font-weight: 400;
   text-align: center;
   color: #061a2d;
   margin: 0;
@@ -187,9 +188,9 @@ a {
   max-width: 100%;
   height: auto;
   position: absolute;
-  left: 420px;
+  left: 408px;
   top: 500px;
-  font-family: 'Orelega One', cursive;
+  font-family: 'Orelega One';
   font-size: 30px;
   text-align: center;
   color: #061a2d;
@@ -205,7 +206,7 @@ a {
   position: absolute;
   left: 427px;
   top: 545px;
-  font-family: 'Orelega One', cursive;
+  font-family: 'Orelega One';
   font-size: 30px;
   text-align: center;
   color: #061a2d;
